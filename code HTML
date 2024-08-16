@@ -1,0 +1,1684 @@
+ALL PAGES ARE BELOW FOR THIS WEBSITE (PAGES INCLUDE: HOME, PRODUCTS, CONTACT, ABOUT, BLOG)
+
+Page 1: HOME
+  <!DOCTYPE html>
+<html lang="en">
+    
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"  referrerpolicy="no-referrer" />
+   
+</head>
+<body>
+    <header>
+        <a href="#"><img src="https://raw.githubusercontent.com/tech2etc/Build-and-Deploy-Ecommerce-Website/7bf0a6a00c79e37d97a953ed62f47197cd567ed3/img/logo.png" alt="" class="logo"></a>
+        <div class="right">
+            <ul class="navbar">
+                <li><a href="index.html" class="active">HOME</a></li>
+                <li><a href="SHOP.html">SHOP</a</li>
+                <li><a href="BLOG.html">BLOG</a</li>
+                <li><a href="CONTACT.html">CONTACT</a</li>     
+                <li><a href="ABOUT.html">ABOUT</a</li>
+                <li><a href="cart.html"><i id="bag" class="fa-solid fa-bag-shopping"></i></a></li>
+               <a href="#" id="close"><i class="fa fa-times"></i></a>
+            </ul>
+
+        </div>
+        <div class="ham">
+             <a href="cart.html"><i class="fa-solid fa-bag-shopping"></i></a>
+            <i id="hamm" class="fa fa-outdent"></i>
+           
+        </div>
+    </header>
+    <div class="hero">
+        <h4>Trade-in offer</h4>
+        <h2>Super value Deals</h2>
+        <h1>On All Our Products</h1>
+        <p>save more with coupons and upto 30% off!</p>
+        <button class="shop">Shop Now</button>
+    </div>
+    <section id="feature" class="section_p1">
+        <div class="feturebox">
+            <img src="https://raw.githubusercontent.com/tech2etc/Build-and-Deploy-Ecommerce-Website/7bf0a6a00c79e37d97a953ed62f47197cd567ed3/img/features/f1.png" alt="" class="f1">
+            <h6>Free shipping</h6>
+        </div>
+        <div class="feturebox">
+            <img src="https://raw.githubusercontent.com/tech2etc/Build-and-Deploy-Ecommerce-Website/7bf0a6a00c79e37d97a953ed62f47197cd567ed3/img/features/f2.png" alt="" class="f1">
+            <h6>Online order</h6>
+        </div>
+        <div class="feturebox">
+            <img src="https://raw.githubusercontent.com/tech2etc/Build-and-Deploy-Ecommerce-Website/7bf0a6a00c79e37d97a953ed62f47197cd567ed3/img/features/f3.png" alt="" class="f1">
+            <h6>Save money</h6>
+        </div>
+        <div class="feturebox">
+            <img src="https://raw.githubusercontent.com/tech2etc/Build-and-Deploy-Ecommerce-Website/7bf0a6a00c79e37d97a953ed62f47197cd567ed3/img/features/f4.png" alt="" class="f1">
+            <h6>Free Gift-card</h6>
+        </div>
+        <div class="feturebox">
+            <img src="https://raw.githubusercontent.com/tech2etc/Build-and-Deploy-Ecommerce-Website/7bf0a6a00c79e37d97a953ed62f47197cd567ed3/img/features/f5.png" alt="" class="f1">
+            <h6>Happy sell</h6>
+        </div>
+        <div class="feturebox">
+            <img src="https://raw.githubusercontent.com/tech2etc/Build-and-Deploy-Ecommerce-Website/7bf0a6a00c79e37d97a953ed62f47197cd567ed3/img/features/f6.png" alt="" class="f1">
+            <h6>F24/7 Support</h6>
+        </div>
+    </section>
+    <section id="products" class="section_p2">
+        <h2>Featured Products</h2>
+        <p>Summer collection Modern Design</p>
+        <div class="container">
+            <div class="pro">
+            <img src="https://raw.githubusercontent.com/tech2etc/Build-and-Deploy-Ecommerce-Website/7bf0a6a00c79e37d97a953ed62f47197cd567ed3/img/products/f1.jpg" class="f1" alt="">
+            <div class="des">
+                <span>adidas</span>
+                <h5>Astronaut T-shirts</h5>
+           
+            <div class="star">
+                <i class="fas fa-star "></i>
+                <i class="fas fa-star "></i>
+                <i class="fas fa-star "></i>
+                <i class="fas fa-star "></i>
+                <i class="fas fa-star "></i>
+
+            </div>
+            <div class="price">
+                <h4>$32</h4>
+            </div>
+
+            <div>
+                <a href="#">
+            <i class="fa-solid fa-cart-shopping cart" ></i>
+            </a>
+                  
+            </div>
+        </div>
+        </div>
+        <div class="pro">
+            <img src="https://raw.githubusercontent.com/tech2etc/Build-and-Deploy-Ecommerce-Website/7bf0a6a00c79e37d97a953ed62f47197cd567ed3/img/products/f2.jpg" class="f1" alt="">
+            <div class="des">
+                <span>adidas</span>
+                <h5>Astronaut T-shirts</h5>
+           
+            <div class="star">
+                <i class="fas fa-star "></i>
+                <i class="fas fa-star "></i>
+                <i class="fas fa-star "></i>
+                <i class="fas fa-star "></i>
+                <i class="fas fa-star "></i>
+
+            </div>
+            <div class="price">
+                <h4>$80</h4>
+            </div>
+
+            <div>
+                <a href="#">
+            <i class="fa-solid fa-cart-shopping cart" ></i>
+            </a>
+                  
+            </div>
+        </div>
+        </div>
+        <div class="pro">
+            <img src="https://images.pexels.com/photos/1464625/pexels-photo-1464625.jpeg?auto=compress&cs=tinysrgb&w=600" class="f1" alt="">
+            <div class="des">
+                <span>NIKE</span>
+                <h5>Casual walking shoes</h5>
+           
+            <div class="star">
+                <i class="fas fa-star "></i>
+                <i class="fas fa-star "></i>
+                <i class="fas fa-star "></i>
+                <i class="fas fa-star "></i>
+                <i class="fas fa-star "></i>
+
+            </div>
+            <div class="price">
+                <h4>$140</h4>
+            </div>
+
+            <div>
+                <a href="#">
+            <i class="fa-solid fa-cart-shopping cart" ></i>
+            </a>
+                  
+            </div>
+        </div>
+        </div>
+        <div class="pro">
+            <img src="https://images.pexels.com/photos/1461048/pexels-photo-1461048.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load" class="f1" alt="">
+            <div class="des">
+                <span>Lacoste</span>
+                <h5>Sports Running shoes</h5>
+           
+            <div class="star">
+                <i class="fas fa-star "></i>
+                <i class="fas fa-star "></i>
+                <i class="fas fa-star "></i>
+                <i class="fas fa-star "></i>
+                <i class="fas fa-star "></i>
+
+            </div>
+            <div class="price">
+                <h4>$150</h4>
+            </div>
+
+            <div>
+                <a href="#">
+            <i class="fa-solid fa-cart-shopping cart" ></i>
+            </a>
+                  
+            </div>
+        </div>
+        </div>
+        <div class="pro">
+            <img src="https://images.pexels.com/photos/11156392/pexels-photo-11156392.jpeg?auto=compress&cs=tinysrgb&w=600" class="f1" alt="">
+            <div class="des">
+                <span>adidas</span>
+                <h5>casual wearing T-shirt</h5>
+           
+            <div class="star">
+                <i class="fas fa-star "></i>
+                <i class="fas fa-star "></i>
+                <i class="fas fa-star "></i>
+                <i class="fas fa-star "></i>
+                <i class="fas fa-star "></i>
+
+            </div>
+            <div class="price">
+                <h4>$200</h4>
+            </div>
+
+            <div>
+                <a href="#">
+            <i class="fa-solid fa-cart-shopping cart" ></i>
+            </a>
+                  
+            </div>
+        </div>
+        </div>
+        <div class="pro">
+            <img src="https://images.pexels.com/photos/18416499/pexels-photo-18416499/free-photo-of-young-man-with-tattoos-wearing-a-cap.jpeg?auto=compress&cs=tinysrgb&w=600" class="f1" alt="">
+            <div class="des">
+                <span>NIKE</span>
+                <h5>Oversized T-shirt</h5>
+           
+            <div class="star">
+                <i class="fas fa-star "></i>
+                <i class="fas fa-star "></i>
+                <i class="fas fa-star "></i>
+                <i class="fas fa-star "></i>
+                <i class="fas fa-star "></i>
+
+            </div>
+            <div class="price">
+                <h4>$32</h4>
+            </div>
+
+            <div>
+                <a href="#">
+            <i class="fa-solid fa-cart-shopping cart" ></i>
+            </a>
+                  
+            </div>
+        </div>
+        </div>
+        <div class="pro">
+            <img src="https://images.pexels.com/photos/8146448/pexels-photo-8146448.jpeg?auto=compress&cs=tinysrgb&w=600" class="f1" alt="">
+            <div class="des">
+                <span>PUMA</span>
+                <h5>Plain Tshirts</h5>
+           
+            <div class="star">
+                <i class="fas fa-star "></i>
+                <i class="fas fa-star "></i>
+                <i class="fas fa-star "></i>
+                <i class="fas fa-star "></i>
+                <i class="fas fa-star "></i>
+
+            </div>
+            <div class="price">
+                <h4>$90</h4>
+            </div>
+
+            <div>
+                <a href="#">
+            <i class="fa-solid fa-cart-shopping cart" ></i>
+            </a>
+                  
+            </div>
+        </div>
+        </div>
+        <div class="pro">
+            <img src="https://images.pexels.com/photos/10050219/pexels-photo-10050219.jpeg?auto=compress&cs=tinysrgb&w=600" class="f1" alt="">
+            <div class="des">
+                <span>GUCCI</span>
+                <h5>Black layered coat</h5>
+           
+            <div class="star">
+                <i class="fas fa-star "></i>
+                <i class="fas fa-star "></i>
+                <i class="fas fa-star "></i>
+                <i class="fas fa-star "></i>
+                <i class="fas fa-star "></i>
+
+            </div>
+            <div class="price">
+                <h4>$350</h4>
+            </div>
+
+            <div>
+                <a href="#">
+            <i class="fa-solid fa-cart-shopping cart" ></i>
+            </a>
+                  
+            </div>
+        </div>
+        </div>
+            
+
+        </div>
+    </section>
+    <div class="banner section_m1">
+        <h4>Repair Services</h4>
+        <h2>Up to <span>70% off </span> - ALL t-shirts and Accessories</h2>
+        <BUTTon class="normal">EXPLORE MORE</BUTTon>
+    </div>
+    <section id="products" class="section_p2">
+        <h2>NEW ARRIVALS</h2>
+        <p>Summer collection Modern Design</p>
+        <div class="container">
+            <div class="pro">
+            <img src="https://images.pexels.com/photos/13094233/pexels-photo-13094233.jpeg?auto=compress&cs=tinysrgb&w=600" class="f1" alt="">
+            <div class="des">
+                <span>LOUIS BETTEN</span>
+                <h5>GREY FABRIC SHIRTS</h5>
+           
+            <div class="star">
+                <i class="fas fa-star "></i>
+                <i class="fas fa-star "></i>
+                <i class="fas fa-star "></i>
+                <i class="fas fa-star "></i>
+                <i class="fas fa-star "></i>
+
+            </div>
+            <div class="price">
+                <h4>$32</h4>
+            </div>
+
+            <div>
+                <a href="#">
+            <i class="fa-solid fa-cart-shopping cart" ></i>
+            </a>
+                  
+            </div>
+        </div>
+        </div>
+        <div class="pro">
+            <img src="https://images.pexels.com/photos/2537658/pexels-photo-2537658.jpeg?auto=compress&cs=tinysrgb&w=600" class="f1" alt="">
+            <div class="des">
+                <span>BEWAKOOF</span>
+                <h5>OVERSIZED SUMMER T-shirt</h5>
+           
+            <div class="star">
+                <i class="fas fa-star "></i>
+                <i class="fas fa-star "></i>
+                <i class="fas fa-star "></i>
+                <i class="fas fa-star "></i>
+                <i class="fas fa-star "></i>
+
+            </div>
+            <div class="price">
+                <h4>$80</h4>
+            </div>
+
+            <div>
+                <a href="#">
+            <i class="fa-solid fa-cart-shopping cart" ></i>
+            </a>
+                  
+            </div>
+        </div>
+        </div>
+        <div class="pro">
+            <img src="https://images.pexels.com/photos/5693888/pexels-photo-5693888.jpeg?auto=compress&cs=tinysrgb&w=600" class="f1" alt="">
+            <div class="des">
+                <span>NIKE</span>
+                <h5>KIDS FULL SET OF CLOTHING</h5>
+           
+            <div class="star">
+                <i class="fas fa-star "></i>
+                <i class="fas fa-star "></i>
+                <i class="fas fa-star "></i>
+                <i class="fas fa-star "></i>
+                <i class="fas fa-star "></i>
+
+            </div>
+            <div class="price">
+                <h4>$140</h4>
+            </div>
+
+            <div>
+                <a href="#">
+            <i class="fa-solid fa-cart-shopping cart" ></i>
+            </a>
+                  
+            </div>
+        </div>
+        </div>
+        <div class="pro">
+            <img src="https://images.pexels.com/photos/2404959/pexels-photo-2404959.png?auto=compress&cs=tinysrgb&w=600" class="f1" alt="">
+            <div class="des">
+                <span>NIKE</span>
+                <h5>Sports Running shoes</h5>
+           
+            <div class="star">
+                <i class="fas fa-star "></i>
+                <i class="fas fa-star "></i>
+                <i class="fas fa-star "></i>
+                <i class="fas fa-star "></i>
+                <i class="fas fa-star "></i>
+
+            </div>
+            <div class="price">
+                <h4>$150</h4>
+            </div>
+
+            <div>
+                <a href="#">
+            <i class="fa-solid fa-cart-shopping cart" ></i>
+            </a>
+                  
+            </div>
+        </div>
+        </div>
+        <div class="pro">
+            <img src="https://images.pexels.com/photos/4452386/pexels-photo-4452386.jpeg?auto=compress&cs=tinysrgb&w=600" class="f1" alt="">
+            <div class="des">
+                <span>GUCCI</span>
+                <h5>HAND BAGS FOR Women</h5>
+           
+            <div class="star">
+                <i class="fas fa-star "></i>
+                <i class="fas fa-star "></i>
+                <i class="fas fa-star "></i>
+                <i class="fas fa-star "></i>
+                <i class="fas fa-star "></i>
+
+            </div>
+            <div class="price">
+                <h4>$200</h4>
+            </div>
+
+            <div>
+                <a href="#">
+            <i class="fa-solid fa-cart-shopping cart" ></i>
+            </a>
+                  
+            </div>
+        </div>
+        </div>
+        <div class="pro">
+            <img src="https://images.pexels.com/photos/1745758/pexels-photo-1745758.jpeg?auto=compress&cs=tinysrgb&w=600" class="f1" alt="">
+            <div class="des">
+                <span>NIKE</span>
+                <h5>CASUAL SNEAKERS</h5>
+           
+            <div class="star">
+                <i class="fas fa-star "></i>
+                <i class="fas fa-star "></i>
+                <i class="fas fa-star "></i>
+                <i class="fas fa-star "></i>
+                <i class="fas fa-star "></i>
+
+            </div>
+            <div class="price">
+                <h4>$32</h4>
+            </div>
+
+            <div>
+                <a href="#">
+            <i class="fa-solid fa-cart-shopping cart" ></i>
+            </a>
+                  
+            </div>
+        </div>
+        </div>
+        <div class="pro">
+            <img src="https://images.pexels.com/photos/8146448/pexels-photo-8146448.jpeg?auto=compress&cs=tinysrgb&w=600" class="f1" alt="">
+            <div class="des">
+                <span>PUMA</span>
+                <h5>Plain Tshirts</h5>
+           
+            <div class="star">
+                <i class="fas fa-star "></i>
+                <i class="fas fa-star "></i>
+                <i class="fas fa-star "></i>
+                <i class="fas fa-star "></i>
+                <i class="fas fa-star "></i>
+
+            </div>
+            <div class="price">
+                <h4>$90</h4>
+            </div>
+
+            <div>
+                <a href="#">
+            <i class="fa-solid fa-cart-shopping cart" ></i>
+            </a>
+                  
+            </div>
+        </div>
+        </div>
+        <div class="pro">
+            <img src="https://images.pexels.com/photos/10050219/pexels-photo-10050219.jpeg?auto=compress&cs=tinysrgb&w=600" class="f1" alt="">
+            <div class="des">
+                <span>GUCCI</span>
+                <h5>Black layered coat</h5>
+           
+            <div class="star">
+                <i class="fas fa-star "></i>
+                <i class="fas fa-star "></i>
+                <i class="fas fa-star "></i>
+                <i class="fas fa-star "></i>
+                <i class="fas fa-star "></i>
+
+            </div>
+            <div class="price">
+                <h4>$350</h4>
+            </div>
+
+            <div>
+                <a href="#">
+            <i class="fa-solid fa-cart-shopping cart" ></i>
+            </a>
+                  
+            </div>
+        </div>
+        </div>
+            
+
+        </div>
+    </section>
+
+    <div class="sm_banner section_p1">
+        <div class="first">
+        <h4>Crazy Deals</h4>
+        <h2>buy <span class="one">1</span> get <span class="one">1</span>  free</h2>
+        <span class="p">THE BEST DRESSES FOR WOMEN ,NOW AT CARA</span>
+        <button class="normal">Learn More</button>
+
+    </div>
+    <div class="second">
+        <h4>SPRING/SUMMER</h4>
+        <h2>UPCOMING SEASON</h2>
+        <span class="p">THE BEST CLASSIC DRESS AT CARA</span>
+        <button class="normal">COLLECTION</button>
+
+    </div>
+</div>
+<section class="banner3">
+    <div class="first">
+        <h2>NEW FOOTWEAR COLLECTION</h2>
+        <h3>SPRING/SUMMER/WINTER</h3>
+ 
+
+    </div>
+    <div class="first two">
+        <h2>SEASON SALE</h2>
+        <h3>Winter sale -50% OFF</h3>
+ 
+
+    </div>
+    <div class="first three">
+        <h2>T-SHIRTS</h2>
+        <h3>NEW TRENDY SHIRTS</h3>
+ 
+
+    </div>
+</section>
+<section id="NEWS" class="section_p1 section_m1">
+    <div class="text">
+        <h2>SIGN UP FOR NEWSLETTER</h2>
+        <p>Get E-mail updates about our latest shop and <span>special offers.</span></p>
+    </div>
+    <div class="inputbox">
+        <input type="text" placeholder="Your E-mail address here">
+        <button class="normal">SIGN UP</button>
+    </div>
+</section>
+<footer class="section_p1">
+    <div class="col">
+        <img src="https://raw.githubusercontent.com/tech2etc/Build-and-Deploy-Ecommerce-Website/7bf0a6a00c79e37d97a953ed62f47197cd567ed3/img/logo.png" class="logo" alt="">
+        <h4>Contact</h4>
+        <p><strong>Address:</strong>Sector 71, NOIDA U.P</p>
+        <p><strong>Phone No.</strong>7668763738</p>
+        <p><strong>Hours:</strong>9:00PM-6:00PM MON-SAT</p>
+        <div class="follow">
+            <div class="icon">
+                <h4>Follow Us</h4>
+                <i class="fab fa-facebook-f"></i>
+                <i class="fab fa-twitter"></i>
+                <i class="fab fa-instagram"></i>
+                <i class="fa-brands fa-pinterest"></i>
+                <i class="fab fa-youtube"></i>
+            </div>
+        </div>
+    </div>
+    <div class="col">
+        <h4>About</h4>
+        <a href="#">About Us</a>
+        <a href="#">Delivery Information</a>
+        <a href="#">Privacy Policy</a>
+        <a href="#">Terms & Conditions</a>
+        <a href="#">Contact Us</a>
+    </div>
+    <div class="col">
+        <h4>My Account</h4>
+        <a href="#">Sign In</a>
+        <a href="#">My Wishlist</a>
+        <a href="#">My Cart</a>
+        <a href="#">Track My Order</a>
+        <a href="#">Help</a>
+    </div>
+    <div class="col .install">
+        <h4>Install App</h4>
+        <p>From App Store or Google Play</p>
+        <div class="row">
+            <img src="https://raw.githubusercontent.com/tech2etc/Build-and-Deploy-Ecommerce-Website/7bf0a6a00c79e37d97a953ed62f47197cd567ed3/img/pay/app.jpg" alt="">
+            <img src="https://raw.githubusercontent.com/tech2etc/Build-and-Deploy-Ecommerce-Website/7bf0a6a00c79e37d97a953ed62f47197cd567ed3/img/pay/play.jpg" alt="">
+        </div>
+        <p>Secure Payment Gateway</p>
+        <img src="https://raw.githubusercontent.com/tech2etc/Build-and-Deploy-Ecommerce-Website/7bf0a6a00c79e37d97a953ed62f47197cd567ed3/img/pay/pay.png" alt="">
+    </div>
+    <div class="foot">
+        <p>&copy;2021 Harsh Co.in @ HTML,CSS,JS Template</p>
+    </div>
+</footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
+
+
+
+  Page 2:
+<!DOCTYPE html>
+<html lang="en">
+    
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"  referrerpolicy="no-referrer" />
+   
+</head>
+<body>
+    <header>
+        <a href="#"><img src="https://raw.githubusercontent.com/tech2etc/Build-and-Deploy-Ecommerce-Website/7bf0a6a00c79e37d97a953ed62f47197cd567ed3/img/logo.png" alt="" class="logo"></a>
+        <div class="right">
+            <ul class="navbar">
+                <li><a href="index.html" >HOME</a></li>
+                <li><a href="SHOP.html" class="active">SHOP</a</li>
+                <li><a href="BLOG.html">BLOG</a</li>
+                <li><a href="CONTACT.html">CONTACT</a</li>     
+                <li><a href="ABOUT.html">ABOUT</a</li>
+                <li><a href="cart.html"><i id="bag" class="fa-solid fa-bag-shopping"></i></a></li>
+               <a href="#" id="close"><i class="fa fa-times"></i></a>
+            </ul>
+
+        </div>
+        <div class="ham">
+             <a href="cart.html"><i class="fa-solid fa-bag-shopping"></i></a>
+            <i id="hamm" class="fa fa-outdent"></i>
+           
+        </div>
+    </header>
+    <div id="prodd" class="section_p1">
+        <div class="left">
+            <img src="https://raw.githubusercontent.com/tech2etc/Build-and-Deploy-Ecommerce-Website/7bf0a6a00c79e37d97a953ed62f47197cd567ed3/img/products/f1.jpg" width="100%" id="mainimg">
+            <div class="smallimg">
+                <div class="smallcol">
+                    <img src="https://raw.githubusercontent.com/tech2etc/Build-and-Deploy-Ecommerce-Website/7bf0a6a00c79e37d97a953ed62f47197cd567ed3/img/products/f2.jpg" width="100%" id="smallimg" alt="">
+                </div>
+                <div class="smallcol">
+                    <img src="https://raw.githubusercontent.com/tech2etc/Build-and-Deploy-Ecommerce-Website/7bf0a6a00c79e37d97a953ed62f47197cd567ed3/img/products/f3.jpg" width="100%" id="smallimg" alt="">
+                </div>
+                <div class="smallcol">
+                    <img src="https://raw.githubusercontent.com/tech2etc/Build-and-Deploy-Ecommerce-Website/7bf0a6a00c79e37d97a953ed62f47197cd567ed3/img/products/f4.jpg" width="100%" id="smallimg" alt="">
+                </div>
+                <div class="smallcol">
+                    <img src="https://raw.githubusercontent.com/tech2etc/Build-and-Deploy-Ecommerce-Website/7bf0a6a00c79e37d97a953ed62f47197cd567ed3/img/products/f5.jpg" width="100%" id="smallimg" alt="">
+                </div>
+            </div>
+            </div>
+      
+    
+        <div class="detailss">
+            <h6>Home/T-shirts</h6>
+            <h4>Men's Fashion T-shirt</h4>
+            <h2>$45.00</h2>
+            <select>
+                <option>Select Size</option>
+                <option>S</option>
+                <option>X</option>
+                <option>M</option>
+                <option>l</option>
+            </select>
+            <input type="number" id="ii" value="1">
+            <button class="normaly">Add TO Cart</button>
+            <h4>Product Details</h4>
+            <span>Elevate your wardrobe with our Classic Cotton Shirt, designed for both style and comfort. Crafted from premium, breathable cotton, this shirt features a timeless design that seamlessly transitions from casual to formal occasions. The tailored fit ensures a flattering silhouette, while the variety of available colors lets you express your personal style. Whether paired with jeans for a relaxed look or dressed up with a blazer for a sophisticated ensemble, our Classic Cotton Shirt is a versatile staple you'll reach for time and time again.</span>
+        </div>
+    
+</div>
+<section id="products" class="section_p2">
+    <h2>Featured Products</h2>
+    <p>Summer collection Modern Design</p>
+    <div class="container">
+        <div class="pro">
+        <img src="https://raw.githubusercontent.com/tech2etc/Build-and-Deploy-Ecommerce-Website/7bf0a6a00c79e37d97a953ed62f47197cd567ed3/img/products/f1.jpg" class="f1" alt="">
+        <div class="des">
+            <span>adidas</span>
+            <h5>Astronaut T-shirts</h5>
+       
+        <div class="star">
+            <i class="fas fa-star "></i>
+            <i class="fas fa-star "></i>
+            <i class="fas fa-star "></i>
+            <i class="fas fa-star "></i>
+            <i class="fas fa-star "></i>
+
+        </div>
+        <div class="price">
+            <h4>$32</h4>
+        </div>
+
+        <div>
+            <a href="#">
+        <i class="fa-solid fa-cart-shopping cart" ></i>
+        </a>
+              
+        </div>
+    </div>
+    </div>
+    <div class="pro">
+        <img src="https://raw.githubusercontent.com/tech2etc/Build-and-Deploy-Ecommerce-Website/7bf0a6a00c79e37d97a953ed62f47197cd567ed3/img/products/f2.jpg" class="f1" alt="">
+        <div class="des">
+            <span>adidas</span>
+            <h5>Astronaut T-shirts</h5>
+       
+        <div class="star">
+            <i class="fas fa-star "></i>
+            <i class="fas fa-star "></i>
+            <i class="fas fa-star "></i>
+            <i class="fas fa-star "></i>
+            <i class="fas fa-star "></i>
+
+        </div>
+        <div class="price">
+            <h4>$80</h4>
+        </div>
+
+        <div>
+            <a href="#">
+        <i class="fa-solid fa-cart-shopping cart" ></i>
+        </a>
+              
+        </div>
+    </div>
+    </div>
+    <div class="pro">
+        <img src="https://images.pexels.com/photos/1464625/pexels-photo-1464625.jpeg?auto=compress&cs=tinysrgb&w=600" class="f1" alt="">
+        <div class="des">
+            <span>NIKE</span>
+            <h5>Casual walking shoes</h5>
+       
+        <div class="star">
+            <i class="fas fa-star "></i>
+            <i class="fas fa-star "></i>
+            <i class="fas fa-star "></i>
+            <i class="fas fa-star "></i>
+            <i class="fas fa-star "></i>
+
+        </div>
+        <div class="price">
+            <h4>$140</h4>
+        </div>
+
+        <div>
+            <a href="#">
+        <i class="fa-solid fa-cart-shopping cart" ></i>
+        </a>
+              
+        </div>
+    </div>
+    </div>
+    <div class="pro">
+        <img src="https://images.pexels.com/photos/1461048/pexels-photo-1461048.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load" class="f1" alt="">
+        <div class="des">
+            <span>Lacoste</span>
+            <h5>Sports Running shoes</h5>
+       
+        <div class="star">
+            <i class="fas fa-star "></i>
+            <i class="fas fa-star "></i>
+            <i class="fas fa-star "></i>
+            <i class="fas fa-star "></i>
+            <i class="fas fa-star "></i>
+
+        </div>
+        <div class="price">
+            <h4>$150</h4>
+        </div>
+
+        <div>
+            <a href="#">
+        <i class="fa-solid fa-cart-shopping cart" ></i>
+        </a>
+              
+        </div>
+    </div>
+    </div>
+   
+   
+        
+
+    </div>
+</section>
+
+<section id="NEWS" class="section_p1 section_m1">
+    <div class="text">
+        <h2>SIGN UP FOR NEWSLETTER</h2>
+        <p>Get E-mail updates about our latest shop and <span>special offers.</span></p>
+    </div>
+    <div class="inputbox">
+        <input type="text" placeholder="Your E-mail address here">
+        <button class="normal">SIGN UP</button>
+    </div>
+</section>
+<footer class="section_p1">
+
+
+<div class="col">
+    <img src="https://raw.githubusercontent.com/tech2etc/Build-and-Deploy-Ecommerce-Website/7bf0a6a00c79e37d97a953ed62f47197cd567ed3/img/logo.png" class="logo" alt="">
+    <h4>Contact</h4>
+    <p><strong>Address:</strong>Sector 71, NOIDA U.P</p>
+    <p><strong>Phone No.</strong>7668763738</p>
+    <p><strong>Hours:</strong>9:00PM-6:00PM MON-SAT</p>
+    <div class="follow">
+        <div class="icon">
+            <h4>Follow Us</h4>
+            <i class="fab fa-facebook-f"></i>
+            <i class="fab fa-twitter"></i>
+            <i class="fab fa-instagram"></i>
+            <i class="fa-brands fa-pinterest"></i>
+            <i class="fab fa-youtube"></i>
+        </div>
+    </div>
+</div>
+<div class="col">
+    <h4>About</h4>
+    <a href="#">About Us</a>
+    <a href="#">Delivery Information</a>
+    <a href="#">Privacy Policy</a>
+    <a href="#">Terms & Conditions</a>
+    <a href="#">Contact Us</a>
+</div>
+<div class="col">
+    <h4>My Account</h4>
+    <a href="#">Sign In</a>
+    <a href="#">My Whishlist</a>
+    <a href="#">My Cart</a>
+    <a href="#">Track My order</a>
+    <a href="#">Help</a>
+</div>
+<div class="col .install">
+    <h4>Install App</h4>
+    <p>From App Store or Google Play</p>
+    <div class="row">
+        <img src="https://raw.githubusercontent.com/tech2etc/Build-and-Deploy-Ecommerce-Website/7bf0a6a00c79e37d97a953ed62f47197cd567ed3/img/pay/app.jpg" alt="">
+        <img src="https://raw.githubusercontent.com/tech2etc/Build-and-Deploy-Ecommerce-Website/7bf0a6a00c79e37d97a953ed62f47197cd567ed3/img/pay/play.jpg" alt="">
+
+    </div>
+    <p>Secure Payment Gateway</p>
+    <img src="https://raw.githubusercontent.com/tech2etc/Build-and-Deploy-Ecommerce-Website/7bf0a6a00c79e37d97a953ed62f47197cd567ed3/img/pay/pay.png" alt="">
+</div>
+<div class="foot">
+    <p>&copy;2021 Harsh Co.in @ HTML,CSS,JS Template</p>
+</div>
+</footer>
+    <script src="script.js"></script>
+</body>
+</html>
+
+  Page 3).
+  <!DOCTYPE html>
+<html lang="en">
+    
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"  referrerpolicy="no-referrer" />
+   
+</head>
+<body>
+    <header>
+        <a href="#"><img src="https://raw.githubusercontent.com/tech2etc/Build-and-Deploy-Ecommerce-Website/7bf0a6a00c79e37d97a953ed62f47197cd567ed3/img/logo.png" alt="" class="logo"></a>
+        <div class="right">
+            <ul class="navbar">
+                <li><a href="index.html" >HOME</a></li>
+                <li><a href="SHOP.html">SHOP</a</li>
+                <li><a href="BLOG.html">BLOG</a</li>
+                <li><a href="CONTACT.html" class="active"  >CONTACT</a</li>     
+                <li><a href="ABOUT.html" >ABOUT</a</li>
+                <li><a href="cart.html"><i id="bag" class="fa-solid fa-bag-shopping"></i></a></li>
+               <a href="#" id="close"><i class="fa fa-times"></i></a>
+            </ul>
+
+        </div>
+        <div class="ham">
+             <a href="cart.html"><i class="fa-solid fa-bag-shopping"></i></a>
+            <i id="hamm" class="fa fa-outdent"></i>
+           
+        </div>
+    </header>
+    <div class="hero4">
+       
+        <h2>#lets_talk</h2>
+       
+        <p> LEAVE A MESSAGE !! We love to have your suggestions. </p>
+    </div>
+    
+    <section id="details" class="section_p1">
+        <div class="left">
+            <span>GET IN TOUCH</span>
+            <H2>Visit of our Agency location or contact us today</H2>
+            <h3>Head Office</h3>
+            <div class="listt">
+                <div class="icon">
+                    
+                        <li><i class="fa-solid fa-map"></i>
+                        <p>56, sector 71 , NOIDA</p></li>
+                        <li><i class="fa-solid fa-envelope"></i>
+                        <P>contact@gmail.com</P></li>
+                        <li><i class="fa-solid fa-phone"></i>
+                        <p>contact@example.com</p></li>
+                       
+                    
+                </div></div></div>
+                <div class="right_map">
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7006.327508427815!2d77.37099664359543!3d28.59486385274089!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce57fae192d6f%3A0x1735521b82bcc593!2sSector%2071%2C%20Noida%2C%20Uttar%20Pradesh%20201307!5e0!3m2!1sen!2sin!4v1721198052665!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section id="formm">
+        <div class="formmw">
+        <form action="">
+            <span>LEAVE A MESSAGE</span>
+            <H2>We love to hear from you</H2>
+            <input type="text" placeholder="Your Name">
+            <input type="text" placeholder="G-mail">
+            <input type="text" placeholder="subject">
+            <textarea name="" id="" cols="30" rows="10" placeholder="Your messagee"></textarea>
+            <button class="normal">Submit</button>
+        </form>
+    </div>
+    </section>
+
+
+<section id="NEWS" class="section_p1 section_m1">
+    <div class="text">
+        <h2>SIGN UP FOR NEWSLETTER</h2>
+        <p>Get E-mail updates about our latest shop and <span>special offers.</span></p>
+    </div>
+    <div class="inputbox">
+        <input type="text" placeholder="Your E-mail address here">
+        <button class="normal">SIGN UP</button>
+    </div>
+</section>
+
+    
+
+    
+
+
+<footer class="section_p1">
+
+
+<div class="col">
+    <img src="https://raw.githubusercontent.com/tech2etc/Build-and-Deploy-Ecommerce-Website/7bf0a6a00c79e37d97a953ed62f47197cd567ed3/img/logo.png" class="logo" alt="">
+    <h4>Contact</h4>
+    <p><strong>Address:</strong>Sector 71, NOIDA U.P</p>
+    <p><strong>Phone No.</strong>7668763738</p>
+    <p><strong>Hours:</strong>9:00PM-6:00PM MON-SAT</p>
+    <div class="follow">
+        <div class="icon">
+            <h4>Follow Us</h4>
+            <i class="fab fa-facebook-f"></i>
+            <i class="fab fa-twitter"></i>
+            <i class="fab fa-instagram"></i>
+            <i class="fa-brands fa-pinterest"></i>
+            <i class="fab fa-youtube"></i>
+        </div>
+    </div>
+</div>
+<div class="col" id="foott">
+    <h4>About</h4>
+    <a href="#">About Us</a>
+    <a href="#">Delivery Information</a>
+    <a href="#">Privacy Policy</a>
+    <a href="#">Terms & Conditions</a>
+    <a href="#">Contact Us</a>
+</div>
+<div class="col">
+    <h4>My Account</h4>
+    <a href="#">Sign In</a>
+    <a href="#">My Whishlist</a>
+    <a href="#">My Cart</a>
+    <a href="#">Track My order</a>
+    <a href="#">Help</a>
+</div>
+<div class="col .install">
+    <h4>Install App</h4>
+    <p>From App Store or Google Play</p>
+    <div class="row">
+        <img src="https://raw.githubusercontent.com/tech2etc/Build-and-Deploy-Ecommerce-Website/7bf0a6a00c79e37d97a953ed62f47197cd567ed3/img/pay/app.jpg" alt="">
+        <img src="https://raw.githubusercontent.com/tech2etc/Build-and-Deploy-Ecommerce-Website/7bf0a6a00c79e37d97a953ed62f47197cd567ed3/img/pay/play.jpg" alt="">
+
+    </div>
+    <p>Secure Payment Gateway</p>
+    <img src="https://raw.githubusercontent.com/tech2etc/Build-and-Deploy-Ecommerce-Website/7bf0a6a00c79e37d97a953ed62f47197cd567ed3/img/pay/pay.png" alt="">
+</div>
+<div class="foot">
+    <p>&copy;2021 Harsh Co.in @ HTML,CSS,JS Template</p>
+</div>
+</footer>
+    <script src="script.js"></script>
+</body>
+</html>
+
+
+  page 4).<!DOCTYPE html>
+<html lang="en">
+    
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"  referrerpolicy="no-referrer" />
+   
+</head>
+<body>
+    <header>
+        <a href="#"><img src="https://raw.githubusercontent.com/tech2etc/Build-and-Deploy-Ecommerce-Website/7bf0a6a00c79e37d97a953ed62f47197cd567ed3/img/logo.png" alt="" class="logo"></a>
+        <div class="right">
+            <ul class="navbar">
+                <li><a href="index.html" >HOME</a></li>
+                <li><a href="SHOP.html">SHOP</a</li>
+                <li><a href="BLOG.html">BLOG</a</li>
+                <li><a href="CONTACT.html" class="active"  >CONTACT</a</li>     
+                <li><a href="ABOUT.html" >ABOUT</a</li>
+                <li><a href="cart.html"><i id="bag" class="fa-solid fa-bag-shopping"></i></a></li>
+               <a href="#" id="close"><i class="fa fa-times"></i></a>
+            </ul>
+
+        </div>
+        <div class="ham">
+             <a href="cart.html"><i class="fa-solid fa-bag-shopping"></i></a>
+            <i id="hamm" class="fa fa-outdent"></i>
+           
+        </div>
+    </header>
+    <div class="hero4">
+       
+        <h2>#lets_talk</h2>
+       
+        <p> LEAVE A MESSAGE !! We love to have your suggestions. </p>
+    </div>
+    
+    <section id="details" class="section_p1">
+        <div class="left">
+            <span>GET IN TOUCH</span>
+            <H2>Visit of our Agency location or contact us today</H2>
+            <h3>Head Office</h3>
+            <div class="listt">
+                <div class="icon">
+                    
+                        <li><i class="fa-solid fa-map"></i>
+                        <p>56, sector 71 , NOIDA</p></li>
+                        <li><i class="fa-solid fa-envelope"></i>
+                        <P>contact@gmail.com</P></li>
+                        <li><i class="fa-solid fa-phone"></i>
+                        <p>contact@example.com</p></li>
+                       
+                    
+                </div></div></div>
+                <div class="right_map">
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7006.327508427815!2d77.37099664359543!3d28.59486385274089!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce57fae192d6f%3A0x1735521b82bcc593!2sSector%2071%2C%20Noida%2C%20Uttar%20Pradesh%20201307!5e0!3m2!1sen!2sin!4v1721198052665!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section id="formm">
+        <div class="formmw">
+        <form action="">
+            <span>LEAVE A MESSAGE</span>
+            <H2>We love to hear from you</H2>
+            <input type="text" placeholder="Your Name">
+            <input type="text" placeholder="G-mail">
+            <input type="text" placeholder="subject">
+            <textarea name="" id="" cols="30" rows="10" placeholder="Your messagee"></textarea>
+            <button class="normal">Submit</button>
+        </form>
+    </div>
+    </section>
+
+
+<section id="NEWS" class="section_p1 section_m1">
+    <div class="text">
+        <h2>SIGN UP FOR NEWSLETTER</h2>
+        <p>Get E-mail updates about our latest shop and <span>special offers.</span></p>
+    </div>
+    <div class="inputbox">
+        <input type="text" placeholder="Your E-mail address here">
+        <button class="normal">SIGN UP</button>
+    </div>
+</section>
+
+    
+
+    
+
+
+<footer class="section_p1">
+
+
+<div class="col">
+    <img src="https://raw.githubusercontent.com/tech2etc/Build-and-Deploy-Ecommerce-Website/7bf0a6a00c79e37d97a953ed62f47197cd567ed3/img/logo.png" class="logo" alt="">
+    <h4>Contact</h4>
+    <p><strong>Address:</strong>Sector 71, NOIDA U.P</p>
+    <p><strong>Phone No.</strong>7668763738</p>
+    <p><strong>Hours:</strong>9:00PM-6:00PM MON-SAT</p>
+    <div class="follow">
+        <div class="icon">
+            <h4>Follow Us</h4>
+            <i class="fab fa-facebook-f"></i>
+            <i class="fab fa-twitter"></i>
+            <i class="fab fa-instagram"></i>
+            <i class="fa-brands fa-pinterest"></i>
+            <i class="fab fa-youtube"></i>
+        </div>
+    </div>
+</div>
+<div class="col" id="foott">
+    <h4>About</h4>
+    <a href="#">About Us</a>
+    <a href="#">Delivery Information</a>
+    <a href="#">Privacy Policy</a>
+    <a href="#">Terms & Conditions</a>
+    <a href="#">Contact Us</a>
+</div>
+<div class="col">
+    <h4>My Account</h4>
+    <a href="#">Sign In</a>
+    <a href="#">My Whishlist</a>
+    <a href="#">My Cart</a>
+    <a href="#">Track My order</a>
+    <a href="#">Help</a>
+</div>
+<div class="col .install">
+    <h4>Install App</h4>
+    <p>From App Store or Google Play</p>
+    <div class="row">
+        <img src="https://raw.githubusercontent.com/tech2etc/Build-and-Deploy-Ecommerce-Website/7bf0a6a00c79e37d97a953ed62f47197cd567ed3/img/pay/app.jpg" alt="">
+        <img src="https://raw.githubusercontent.com/tech2etc/Build-and-Deploy-Ecommerce-Website/7bf0a6a00c79e37d97a953ed62f47197cd567ed3/img/pay/play.jpg" alt="">
+
+    </div>
+    <p>Secure Payment Gateway</p>
+    <img src="https://raw.githubusercontent.com/tech2etc/Build-and-Deploy-Ecommerce-Website/7bf0a6a00c79e37d97a953ed62f47197cd567ed3/img/pay/pay.png" alt="">
+</div>
+<div class="foot">
+    <p>&copy;2021 Harsh Co.in @ HTML,CSS,JS Template</p>
+</div>
+</footer>
+    <script src="script.js"></script>
+</body>
+</html>
+
+
+  5).
+  <!DOCTYPE html>
+<html lang="en">
+    
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"  referrerpolicy="no-referrer" />
+   
+</head>
+<body>
+    <header>
+        <a href="#"><img src="https://raw.githubusercontent.com/tech2etc/Build-and-Deploy-Ecommerce-Website/7bf0a6a00c79e37d97a953ed62f47197cd567ed3/img/logo.png" alt="" class="logo"></a>
+        <div class="right">
+            <ul class="navbar">
+                <li><a href="index.html" >HOME</a></li>
+                <li><a href="SHOP.html">SHOP</a</li>
+                <li><a href="BLOG.html">BLOG</a</li>
+                <li><a href="CONTACT.html"   >CONTACT</a</li>     
+                <li><a href="ABOUT.html" >ABOUT</a</li>
+                <li><a href="cart.html" class="active"><i id="bag" class="fa-solid fa-bag-shopping"></i></a></li>
+               <a href="#" id="close"><i class="fa fa-times"></i></a>
+            </ul>
+
+        </div>
+        <div class="ham">
+             <a href="cart.html"><i class="fa-solid fa-bag-shopping"></i></a>
+            <i id="hamm" class="fa fa-outdent"></i>
+           
+        </div>
+    </header>
+    <div class="hero4">
+       
+        <h2>#lets_talk</h2>
+       
+        <p> LEAVE A MESSAGE !! We love to have your suggestions. </p>
+    </div>
+    
+    <section id="cart" class="section_p1">
+<table width="100%"> 
+<thead>
+    <tr>
+        <td>Remove</td>
+        <td>Image</td>
+        <td>Product</td>
+        <td>Price</td>
+        <td>Quantity</td>
+        <td>Sub Total</td>
+    </tr>
+</thead>
+<tbody>
+    <tr>
+        <td><i class=" far fa-times-circle"><a href="#"></a></i></td>
+        <td><img src="https://raw.githubusercontent.com/tech2etc/Build-and-Deploy-Ecommerce-Website/7bf0a6a00c79e37d97a953ed62f47197cd567ed3/img/products/f1.jpg" alt=""></td>
+        <td>cotton Men's shirt</td>
+        <td>$42</td>
+        <td><input type="number" value="1"></td>
+        <td>42$</td>
+    </tr>
+    <tr>
+        <td><i class=" far fa-times-circle"><a href="#"></a></i></td>
+        <td><img src="https://raw.githubusercontent.com/tech2etc/Build-and-Deploy-Ecommerce-Website/7bf0a6a00c79e37d97a953ed62f47197cd567ed3/img/products/f3.jpg" alt=""></td>
+        <td>cotton Men's shirt</td>
+        <td>$42</td>
+        <td><input type="number" value="1"></td>
+        <td>42$</td>
+    </tr>
+    <tr>
+        <td><i class=" far fa-times-circle"><a href="#"></a></i></td>
+        <td><img src="https://raw.githubusercontent.com/tech2etc/Build-and-Deploy-Ecommerce-Website/7bf0a6a00c79e37d97a953ed62f47197cd567ed3/img/products/f2.jpg" alt=""></td>
+        <td>cotton Men's shirt</td>
+        <td>$42</td>
+        <td><input type="number" value="1"></td>
+        <td>42$</td>
+    </tr>
+</tbody>
+
+</table>
+
+    </section>
+
+    <section id="det" class="section_p1">
+        <div class="coupon">
+            <h3>Enter coupon code</h3>
+            <div class="in">
+                <input type="text" name="" id=" " placeholder="Enter your coupon">
+                <button class="normal">Apply </button>
+            </div></div>
+            <div class="subtotal">
+                <h3>Cart Total</h3>
+                <table>
+                    <tr> <td>Cart subtotal</td>
+                   <td> 335$</td>
+                </tr>
+                <tr>
+                    <td>Shipping</td>
+                    <td>Free</td>
+                </tr>
+                <tr>
+                    <td>Total</td>
+                    <td>335$</td>
+                </tr>
+                </table>
+                <button class="normal"><a href="#">Proceed to checkout</a></button>
+
+            </div>
+        
+    </section>
+    
+
+    
+
+    
+
+
+<footer class="section_p1">
+
+
+<div class="col">
+    <img src="https://raw.githubusercontent.com/tech2etc/Build-and-Deploy-Ecommerce-Website/7bf0a6a00c79e37d97a953ed62f47197cd567ed3/img/logo.png" class="logo" alt="">
+    <h4>Contact</h4>
+    <p><strong>Address:</strong>Sector 71, NOIDA U.P</p>
+    <p><strong>Phone No.</strong>7668763738</p>
+    <p><strong>Hours:</strong>9:00PM-6:00PM MON-SAT</p>
+    <div class="follow">
+        <div class="icon">
+            <h4>Follow Us</h4>
+            <i class="fab fa-facebook-f"></i>
+            <i class="fab fa-twitter"></i>
+            <i class="fab fa-instagram"></i>
+            <i class="fa-brands fa-pinterest"></i>
+            <i class="fab fa-youtube"></i>
+        </div>
+    </div>
+</div>
+<div class="col" id="foott">
+    <h4>About</h4>
+    <a href="#">About Us</a>
+    <a href="#">Delivery Information</a>
+    <a href="#">Privacy Policy</a>
+    <a href="#">Terms & Conditions</a>
+    <a href="#">Contact Us</a>
+</div>
+<div class="col">
+    <h4>My Account</h4>
+    <a href="#">Sign In</a>
+    <a href="#">My Whishlist</a>
+    <a href="#">My Cart</a>
+    <a href="#">Track My order</a>
+    <a href="#">Help</a>
+</div>
+<div class="col .install">
+    <h4>Install App</h4>
+    <p>From App Store or Google Play</p>
+    <div class="row">
+        <img src="https://raw.githubusercontent.com/tech2etc/Build-and-Deploy-Ecommerce-Website/7bf0a6a00c79e37d97a953ed62f47197cd567ed3/img/pay/app.jpg" alt="">
+        <img src="https://raw.githubusercontent.com/tech2etc/Build-and-Deploy-Ecommerce-Website/7bf0a6a00c79e37d97a953ed62f47197cd567ed3/img/pay/play.jpg" alt="">
+
+    </div>
+    <p>Secure Payment Gateway</p>
+    <img src="https://raw.githubusercontent.com/tech2etc/Build-and-Deploy-Ecommerce-Website/7bf0a6a00c79e37d97a953ed62f47197cd567ed3/img/pay/pay.png" alt="">
+</div>
+<div class="foot">
+    <p>&copy;2021 Harsh Co.in @ HTML,CSS,JS Template</p>
+</div>
+</footer>
+    <script src="script.js"></script>
+</body>
+</html>
+
+  6).
+  <!DOCTYPE html>
+<html lang="en">
+    
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"  referrerpolicy="no-referrer" />
+   
+</head>
+<body>
+    <header>
+        <a href="#"><img src="https://raw.githubusercontent.com/tech2etc/Build-and-Deploy-Ecommerce-Website/7bf0a6a00c79e37d97a953ed62f47197cd567ed3/img/logo.png" alt="" class="logo"></a>
+        <div class="right">
+            <ul class="navbar">
+                <li><a href="index.html" >HOME</a></li>
+                <li><a href="SHOP.html">SHOP</a</li>
+                <li><a href="BLOG.html"  class="active">BLOG</a</li>
+                <li><a href="CONTACT.html">CONTACT</a</li>     
+                <li><a href="ABOUT.html">ABOUT</a</li>
+                <li><a href="cart.html"><i id="bag" class="fa-solid fa-bag-shopping"></i></a></li>
+               <a href="#" id="close"><i class="fa fa-times"></i></a>
+            </ul>
+
+        </div>
+        <div class="ham">
+             <a href="cart.html"><i class="fa-solid fa-bag-shopping"></i></a>
+            <i id="hamm" class="fa fa-outdent"></i>
+           
+        </div>
+    </header>
+    <div class="hero2">
+       
+        <h2>#readmore</h2>
+       
+        <p>Read case studies about <span>Us</span> !! </p>
+    </div>
+    
+    <section id="blog" >
+        <div class="box">
+        <div class="right">
+            <img src="https://raw.githubusercontent.com/tech2etc/Build-and-Deploy-Ecommerce-Website/7bf0a6a00c79e37d97a953ed62f47197cd567ed3/img/blog/b1.jpg" alt="">
+
+        </div>
+        <div class="left">
+            <h4>The cotton jersey Zip-Up hoodie</h4>
+            <p>The Cotton Jersey Zip-Up Hoodie offers comfort and style with its soft, breathable fabric and sleek design, perfect for casual wear or layering in cooler weather.</p>
+            <a href="#">CONTINUE READING</a>
+
+        </div>
+        <h1>13/01</h1>
+    </div>
+    <div class="box">
+        <div class="right">
+            <img src="https://raw.githubusercontent.com/tech2etc/Build-and-Deploy-Ecommerce-Website/7bf0a6a00c79e37d97a953ed62f47197cd567ed3/img/blog/b2.jpg" alt="">
+
+        </div>
+        <div class="left">
+            <h4>Must have skater girl items</h4>
+            <p>For achieving a skater girl look, here are some must-have items that capture the essence of this style:
+
+                Graphic T-Shirts: Look for oversized or fitted graphic tees featuring skate brands, music bands, or quirky designs.
+                
+                Denim Shorts or Skirts: Opt for distressed denim shorts or skirts that are comfortable and easy to move in.
+                
+                </p>
+            <a href="#">CONTINUE READING</a>
+
+        </div>
+        <h1>14/02</h1>
+    </div>
+    <div class="box">
+        <div class="right">
+            <img src="https://raw.githubusercontent.com/tech2etc/Build-and-Deploy-Ecommerce-Website/7bf0a6a00c79e37d97a953ed62f47197cd567ed3/img/blog/b3.jpg" alt="">
+
+        </div>
+        <div class="left">
+            <h4>Things you must know about top</h4>
+            <p>ure, here's a general overview of how to put together an outfit with jeans and a top:
+
+                Overview of Styling with Jeans and a Top:
+                Choosing Jeans:
+                
+                Fit: Select jeans that fit comfortably and flatter your body shape. Options include skinny, straight-leg, bootcut, boyfriend, or flare jeans.</p>
+            <a href="#">CONTINUE READING</a>
+
+        </div>
+        <h1>15/03</h1>
+    </div>
+    <div class="box">
+        <div class="right">
+            <img src="https://raw.githubusercontent.com/tech2etc/Build-and-Deploy-Ecommerce-Website/7bf0a6a00c79e37d97a953ed62f47197cd567ed3/img/blog/b4.jpg" alt="">
+
+        </div>
+        <div class="left">
+            <h4>How to style a Quiff</h4>
+            <p>Styling a quiff can add a stylish and voluminous look to your hair. Here’s a step-by-step guide to help you achieve and style a quiff:
+
+                Step-by-Step Guide:
+                Preparation:
+                
+                Start with clean, towel-dried hair. The quiff works best with medium to long hair on top.
+                Optionally, apply a volumizing mousse or spray to add texture and volume.</p>
+            <a href="#">CONTINUE READING</a>
+
+        </div>
+        <h1>16/04</h1>
+    </div>
+    <div class="box">
+        <div class="right">
+            <img src="https://raw.githubusercontent.com/tech2etc/Build-and-Deploy-Ecommerce-Website/7bf0a6a00c79e37d97a953ed62f47197cd567ed3/img/blog/b5.jpg" alt="">
+
+        </div>
+        <div class="left">
+            <h4>Run-Way inspired Trend</h4>
+            <p>Runway-inspired trends" refer to fashion trends that originate from high-fashion runway shows. These trends are often set by renowned fashion designers and then trickle down into mainstream fashion and retail. </p>
+            <a href="#">CONTINUE READING</a>
+
+        </div>
+        <h1>17/05</h1>
+    </div>
+    </section>
+    
+     
+    <section class="slider">
+        <a href="#">1</a>
+        <a href="#">2</a>
+        <a href="#"><i class="fa-solid fa-arrow-right"></i></a>
+    </section>
+
+    
+
+<section id="NEWS" class="section_p1 section_m1">
+    <div class="text">
+        <h2>SIGN UP FOR NEWSLETTER</h2>
+        <p>Get E-mail updates about our latest shop and <span>special offers.</span></p>
+    </div>
+    <div class="inputbox">
+        <input type="text" placeholder="Your E-mail address here">
+        <button class="normal">SIGN UP</button>
+    </div>
+</section>
+<footer class="section_p1">
+
+
+<div class="col">
+    <img src="https://raw.githubusercontent.com/tech2etc/Build-and-Deploy-Ecommerce-Website/7bf0a6a00c79e37d97a953ed62f47197cd567ed3/img/logo.png" class="logo" alt="">
+    <h4>Contact</h4>
+    <p><strong>Address:</strong>Sector 71, NOIDA U.P</p>
+    <p><strong>Phone No.</strong>7668763738</p>
+    <p><strong>Hours:</strong>9:00PM-6:00PM MON-SAT</p>
+    <div class="follow">
+        <div class="icon">
+            <h4>Follow Us</h4>
+            <i class="fab fa-facebook-f"></i>
+            <i class="fab fa-twitter"></i>
+            <i class="fab fa-instagram"></i>
+            <i class="fa-brands fa-pinterest"></i>
+            <i class="fab fa-youtube"></i>
+        </div>
+    </div>
+</div>
+<div class="col" id="foott">
+    <h4>About</h4>
+    <a href="#">About Us</a>
+    <a href="#">Delivery Information</a>
+    <a href="#">Privacy Policy</a>
+    <a href="#">Terms & Conditions</a>
+    <a href="#">Contact Us</a>
+</div>
+<div class="col">
+    <h4>My Account</h4>
+    <a href="#">Sign In</a>
+    <a href="#">My Whishlist</a>
+    <a href="#">My Cart</a>
+    <a href="#">Track My order</a>
+    <a href="#">Help</a>
+</div>
+<div class="col .install">
+    <h4>Install App</h4>
+    <p>From App Store or Google Play</p>
+    <div class="row">
+        <img src="https://raw.githubusercontent.com/tech2etc/Build-and-Deploy-Ecommerce-Website/7bf0a6a00c79e37d97a953ed62f47197cd567ed3/img/pay/app.jpg" alt="">
+        <img src="https://raw.githubusercontent.com/tech2etc/Build-and-Deploy-Ecommerce-Website/7bf0a6a00c79e37d97a953ed62f47197cd567ed3/img/pay/play.jpg" alt="">
+
+    </div>
+    <p>Secure Payment Gateway</p>
+    <img src="https://raw.githubusercontent.com/tech2etc/Build-and-Deploy-Ecommerce-Website/7bf0a6a00c79e37d97a953ed62f47197cd567ed3/img/pay/pay.png" alt="">
+</div>
+<div class="foot">
+    <p>&copy;2021 Harsh Co.in @ HTML,CSS,JS Template</p>
+</div>
+</footer>
+    <script src="script.js"></script>
+</body>
+</html>
+
+  7).
+  <!DOCTYPE html>
+<html lang="en">
+    
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"  referrerpolicy="no-referrer" />
+   
+</head>
+<body>
+    <header>
+        <a href="#"><img src="https://raw.githubusercontent.com/tech2etc/Build-and-Deploy-Ecommerce-Website/7bf0a6a00c79e37d97a953ed62f47197cd567ed3/img/logo.png" alt="" class="logo"></a>
+        <div class="right">
+            <ul class="navbar">
+                <li><a href="index.html" >HOME</a></li>
+                <li><a href="SHOP.html">SHOP</a</li>
+                <li><a href="BLOG.html">BLOG</a</li>
+                <li><a href="CONTACT.html"   >CONTACT</a</li>     
+                <li><a href="ABOUT.html" class="active">ABOUT</a</li>
+                <li><a href="cart.html"><i id="bag" class="fa-solid fa-bag-shopping"></i></a></li>
+               <a href="#" id="close"><i class="fa fa-times"></i></a>
+            </ul>
+
+        </div>
+        <div class="ham">
+             <a href="cart.html"><i class="fa-solid fa-bag-shopping"></i></a>
+            <i id="hamm" class="fa fa-outdent"></i>
+           
+        </div>
+    </header>
+    <div class="hero3">
+       
+        <h2>#KnowUs</h2>
+       
+        <p>let's build a growing <span>Society</span> !! </p>
+    </div>
+    
+    <div id="about1" class="section_p1">
+        <div class="about-content">
+            <div class="right">
+                <img src="https://raw.githubusercontent.com/tech2etc/Build-and-Deploy-Ecommerce-Website/7bf0a6a00c79e37d97a953ed62f47197cd567ed3/img/about/a6.jpg" alt="">
+            </div>
+            <div class="left">
+                <h2>Who we are?</h2>
+                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facilis, id sunt dolores labore maxime animi accusamus fugiat aut reiciendis tempore. Quaerat ex qui eligendi ab cum fugiat placeat. Laboriosam voluptatibus, dolore nostrum ut at ex tempora ratione, cumque, aspernatur excepturi blanditiis corrupti. Ratione molestiae sed voluptate rem adipisci corporis dolor!</p>
+                <br><br>
+                <marquee bgcolor="#ccc" loop="-1" scrollamount="5" width="100%">Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta, eaque!</marquee>
+            </div>
+        </div>
+    </div>
+<section class="about_app">
+    <h2>Download Our <a href="#">App</a></h2>
+    <div class="video">
+        <video src="1.mp4" autoplay  muted loop></video>
+    </div>
+</section>
+
+<section id="feature" class="section_p1">
+    <div class="feturebox">
+        <img src="https://raw.githubusercontent.com/tech2etc/Build-and-Deploy-Ecommerce-Website/7bf0a6a00c79e37d97a953ed62f47197cd567ed3/img/features/f1.png" alt="" class="f1">
+        <h6>Free shipping</h6>
+    </div>
+    <div class="feturebox">
+        <img src="https://raw.githubusercontent.com/tech2etc/Build-and-Deploy-Ecommerce-Website/7bf0a6a00c79e37d97a953ed62f47197cd567ed3/img/features/f2.png" alt="" class="f1">
+        <h6>Online order</h6>
+    </div>
+    <div class="feturebox">
+        <img src="https://raw.githubusercontent.com/tech2etc/Build-and-Deploy-Ecommerce-Website/7bf0a6a00c79e37d97a953ed62f47197cd567ed3/img/features/f3.png" alt="" class="f1">
+        <h6>Save money</h6>
+    </div>
+    <div class="feturebox">
+        <img src="https://raw.githubusercontent.com/tech2etc/Build-and-Deploy-Ecommerce-Website/7bf0a6a00c79e37d97a953ed62f47197cd567ed3/img/features/f4.png" alt="" class="f1">
+        <h6>Free Gift-card</h6>
+    </div>
+    <div class="feturebox">
+        <img src="https://raw.githubusercontent.com/tech2etc/Build-and-Deploy-Ecommerce-Website/7bf0a6a00c79e37d97a953ed62f47197cd567ed3/img/features/f5.png" alt="" class="f1">
+        <h6>Happy sell</h6>
+    </div>
+    <div class="feturebox">
+        <img src="https://raw.githubusercontent.com/tech2etc/Build-and-Deploy-Ecommerce-Website/7bf0a6a00c79e37d97a953ed62f47197cd567ed3/img/features/f6.png" alt="" class="f1">
+        <h6>F24/7 Support</h6>
+    </div>
+</section>
+<section id="NEWS" class="section_p1 section_m1">
+    <div class="text">
+        <h2>SIGN UP FOR NEWSLETTER</h2>
+        <p>Get E-mail updates about our latest shop and <span>special offers.</span></p>
+    </div>
+    <div class="inputbox">
+        <input type="text" placeholder="Your E-mail address here">
+        <button class="normal">SIGN UP</button>
+    </div>
+</section>
+
+    
+
+    
+
+
+<footer class="section_p1">
+
+
+<div class="col">
+    <img src="https://raw.githubusercontent.com/tech2etc/Build-and-Deploy-Ecommerce-Website/7bf0a6a00c79e37d97a953ed62f47197cd567ed3/img/logo.png" class="logo" alt="">
+    <h4>Contact</h4>
+    <p><strong>Address:</strong>Sector 71, NOIDA U.P</p>
+    <p><strong>Phone No.</strong>7668763738</p>
+    <p><strong>Hours:</strong>9:00PM-6:00PM MON-SAT</p>
+    <div class="follow">
+        <div class="icon">
+            <h4>Follow Us</h4>
+            <i class="fab fa-facebook-f"></i>
+            <i class="fab fa-twitter"></i>
+            <i class="fab fa-instagram"></i>
+            <i class="fa-brands fa-pinterest"></i>
+            <i class="fab fa-youtube"></i>
+        </div>
+    </div>
+</div>
+<div class="col" id="foott">
+    <h4>About</h4>
+    <a href="#">About Us</a>
+    <a href="#">Delivery Information</a>
+    <a href="#">Privacy Policy</a>
+    <a href="#">Terms & Conditions</a>
+    <a href="#">Contact Us</a>
+</div>
+<div class="col">
+    <h4>My Account</h4>
+    <a href="#">Sign In</a>
+    <a href="#">My Whishlist</a>
+    <a href="#">My Cart</a>
+    <a href="#">Track My order</a>
+    <a href="#">Help</a>
+</div>
+<div class="col .install">
+    <h4>Install App</h4>
+    <p>From App Store or Google Play</p>
+    <div class="row">
+        <img src="https://raw.githubusercontent.com/tech2etc/Build-and-Deploy-Ecommerce-Website/7bf0a6a00c79e37d97a953ed62f47197cd567ed3/img/pay/app.jpg" alt="">
+        <img src="https://raw.githubusercontent.com/tech2etc/Build-and-Deploy-Ecommerce-Website/7bf0a6a00c79e37d97a953ed62f47197cd567ed3/img/pay/play.jpg" alt="">
+
+    </div>
+    <p>Secure Payment Gateway</p>
+    <img src="https://raw.githubusercontent.com/tech2etc/Build-and-Deploy-Ecommerce-Website/7bf0a6a00c79e37d97a953ed62f47197cd567ed3/img/pay/pay.png" alt="">
+</div>
+<div class="foot">
+    <p>&copy;2021 Harsh Co.in @ HTML,CSS,JS Template</p>
+</div>
+</footer>
+    <script src="script.js"></script>
+</body>
+</html>
