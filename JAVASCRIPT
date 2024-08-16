@@ -1,0 +1,14 @@
+const bar = document.getElementById('hamm'); // Corrected ID here
+const nav = document.querySelector('.navbar'); // Use querySelector to get the first element with class 'navbar'
+const close = document.getElementById('close');
+if (bar) {
+    bar.addEventListener('click', () => {
+        nav.classList.toggle('active'); // Use toggle instead of add to switch class on/off
+    });
+}
+if (close) {
+    close.addEventListener('click', () => {
+        nav.classList.remove('active'); // Use toggle instead of add to switch class on/off
+    });
+}
+// JavaScript code to manage the cart
